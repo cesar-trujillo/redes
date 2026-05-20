@@ -1,0 +1,2 @@
+Escenario
+hay tres proveedores de internet, infinitum, izzi y Megacable, cada uno de ellos provee a dos colonias de Coatzacoalcos, las colonias son el tesoro, santa Isabel, rancho alegre, santa martha, ciudad olmeca y puerto méxico, cada colonia cuenta con 30 equipos y dos teléfonos, los teléfonos ip se pueden llamar desde todas las colonias pero las computadoras no se pueden comunicar entre diferentes proveedores de internet, todas las colonias van a visitar a un sitio de internet para ver el mundial "mundialito.com" 
